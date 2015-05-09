@@ -10,7 +10,6 @@ import sys
 pygtk.require("2.0")
 import gtk
 import gobject
-from languages import languages,categories
 
 class Texter(object):       
 	
