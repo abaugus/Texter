@@ -1,6 +1,12 @@
 # Texter
+
 A full-fledged text editor for linux platform with all basic features.
 
-# Usage
+## Usage
+
 Clone this repository and go to the path of data from your terminal and just run
 python texter.py
+
+## Screenshot
+
+![Hello World](screenshots/hello_world.png)
